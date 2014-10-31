@@ -4,7 +4,7 @@
  * Plugin URI:  http://wordpress.org/plugins/wp-remove-category-base/
  * Description: Removes the category base slug from the category archive permalinks.
  * Version:     1.0
- * Author       Ezra Verheijen
+ * Author:      Ezra Verheijen
  * Author URI:  http://profiles.wordpress.org/ezraverheijen/
  * License:     GPL v3
  * 
