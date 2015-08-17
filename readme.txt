@@ -2,7 +2,7 @@
 Contributors: ezraverheijen
 Tags: category base, category prefix, category slug
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
